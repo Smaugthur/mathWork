@@ -1,0 +1,13 @@
+R:\Toolkit\Mirror\Programacion\mathHomeWork\bin\Debug\netcoreapp3.1\mathHomeWork.exe
+R:\Toolkit\Mirror\Programacion\mathHomeWork\bin\Debug\netcoreapp3.1\mathHomeWork.deps.json
+R:\Toolkit\Mirror\Programacion\mathHomeWork\bin\Debug\netcoreapp3.1\mathHomeWork.runtimeconfig.json
+R:\Toolkit\Mirror\Programacion\mathHomeWork\bin\Debug\netcoreapp3.1\mathHomeWork.runtimeconfig.dev.json
+R:\Toolkit\Mirror\Programacion\mathHomeWork\bin\Debug\netcoreapp3.1\mathHomeWork.dll
+R:\Toolkit\Mirror\Programacion\mathHomeWork\bin\Debug\netcoreapp3.1\mathHomeWork.pdb
+R:\Toolkit\Mirror\Programacion\mathHomeWork\obj\Debug\netcoreapp3.1\mathHomeWork.csprojAssemblyReference.cache
+R:\Toolkit\Mirror\Programacion\mathHomeWork\obj\Debug\netcoreapp3.1\mathHomeWork.AssemblyInfoInputs.cache
+R:\Toolkit\Mirror\Programacion\mathHomeWork\obj\Debug\netcoreapp3.1\mathHomeWork.AssemblyInfo.cs
+R:\Toolkit\Mirror\Programacion\mathHomeWork\obj\Debug\netcoreapp3.1\mathHomeWork.csproj.CoreCompileInputs.cache
+R:\Toolkit\Mirror\Programacion\mathHomeWork\obj\Debug\netcoreapp3.1\mathHomeWork.dll
+R:\Toolkit\Mirror\Programacion\mathHomeWork\obj\Debug\netcoreapp3.1\mathHomeWork.pdb
+R:\Toolkit\Mirror\Programacion\mathHomeWork\obj\Debug\netcoreapp3.1\mathHomeWork.genruntimeconfig.cache
